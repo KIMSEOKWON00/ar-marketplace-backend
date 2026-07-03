@@ -411,6 +411,6 @@ node app.js
 | 이름 | GitHub |
 |---|---|
 | 김석원 | [@KIMSEOKWON00](https://github.com/KIMSEOKWON00) |
-| 김동건 | [@dongkeonkim-dev](https://github.com/dongkeonkim-dev) |
+| 김동건 | [@Chalgaro46](https://github.com/dongkeonkim-dev) |
 
 > 프로젝트는 2인 풀스택 개발(iOS 앱 + Node.js 백엔드) 체제로 진행되었습니다.

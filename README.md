@@ -38,7 +38,6 @@
 - [알려진 이슈 및 개선 방향](#알려진-이슈-및-개선-방향)
 - [Cloud 인프라 구성](#cloud-인프라-구성)
 - [환경 설정 및 실행 방법](#환경-설정-및-실행-방법)
-- [발표자료](#발표자료)
 - [iOS 앱 레포](#ios-앱-레포)
 - [팀원 소개](#팀원-소개)
 
@@ -401,23 +400,17 @@ node app.js
 
 ---
 
-## 발표자료
-
-[📄 프로젝트 발표 슬라이드](./docs/presentation.pdf)
-
----
-
 ## iOS 앱 레포
 
-[확인 필요] — iOS 클라이언트 레포지토리 링크를 이곳에 추가해주세요.
+[ar-marketplace-ios](https://github.com/KIMSEOKWON00/ar-marketplace-ios)
 
 ---
 
 ## 팀원 소개
 
-| 이름 | GitHub | 역할 |
+| 이름 | GitHub | 
 |---|---|---|
-| 김석원 | [@KIMSEOKWON00](https://github.com/KIMSEOKWON00) | Backend (Node.js) |
-| 김동건 | [@dongkeonkim-dev](https://github.com/dongkeonkim-dev) | [확인 필요] |
+| 김석원 | [@KIMSEOKWON00](https://github.com/KIMSEOKWON00) | 
+| 김동건 | [@dongkeonkim-dev](https://github.com/dongkeonkim-dev) | 
 
 > 프로젝트는 2인 풀스택 개발(iOS 앱 + Node.js 백엔드) 체제로 진행되었습니다. 역할 분담 상세 내용은 `[확인 필요]`.

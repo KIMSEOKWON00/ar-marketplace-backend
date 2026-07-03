@@ -408,9 +408,9 @@ node app.js
 
 ## 팀원 소개
 
-| 이름 | GitHub | 
-|---|---|---|
-| 김석원 | [@KIMSEOKWON00](https://github.com/KIMSEOKWON00) | 
-| 김동건 | [@dongkeonkim-dev](https://github.com/dongkeonkim-dev) | 
+| 이름 | GitHub |
+|---|---|
+| 김석원 | [@KIMSEOKWON00](https://github.com/KIMSEOKWON00) |
+| 김동건 | [@dongkeonkim-dev](https://github.com/dongkeonkim-dev) |
 
-> 프로젝트는 2인 풀스택 개발(iOS 앱 + Node.js 백엔드) 체제로 진행되었습니다. 역할 분담 상세 내용은 `[확인 필요]`.
+> 프로젝트는 2인 풀스택 개발(iOS 앱 + Node.js 백엔드) 체제로 진행되었습니다.
